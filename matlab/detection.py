@@ -1,4 +1,4 @@
-function [centre_pixel_x, centre_pixel_y] = detection(ear_img)
+function [centre_pixel_x, centre_pixel_y] = detection(img)
 %detection - function that detects the pixel aaround which the ear is 
 %located in an ear image
 %Usage:
